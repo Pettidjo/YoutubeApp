@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -23,3 +24,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+=======
+# YoutubeApp
+>>>>>>> c3bfbc8ac4c71068e81701fcf735797330f902d3
